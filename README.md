@@ -24,7 +24,7 @@ The project follows a standard layered architecture:
 
 ## 📝 Getting Started
 1. Clone the repository: `git clone https://github.com/nitzsh-dev/phoenix.git`
-2. Navigate to directory: `cd phoenix-insurance`
+2. Navigate to directory: `cd phoenix`
 3. Run the application: `mvn spring-boot:run`
 
 ## 🚦 Main API Endpoints
